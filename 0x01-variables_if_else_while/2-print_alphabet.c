@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints last digit
+ * main - Putchar alphabeth
  *
  * Return: Always (Success)
  */
@@ -20,6 +20,8 @@ for (i = 'a'; i <= 'z'; i++)
 {
 putchar(i);
 }
+{
 putchar('\n');
+}
 return (0);
 }
