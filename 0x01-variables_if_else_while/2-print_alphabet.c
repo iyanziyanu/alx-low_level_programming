@@ -1,7 +1,3 @@
-#include <stdlib.h>
-
-#include <time.h>
-
 #include <stdio.h>
 
 /**
@@ -20,8 +16,6 @@ for (i = 'a'; i <= 'z'; i++)
 {
 putchar(i);
 }
-{
 putchar('\n');
-}
 return (0);
 }
