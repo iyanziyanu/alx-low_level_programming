@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <time.h>
+#include <stdlib.h>
 /**
- *main - receives no arguement
+ *main - prints if number is positive, zero or negative
  *
  * Return: Always 0 (success)
  */
