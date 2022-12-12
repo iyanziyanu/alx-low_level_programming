@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Putchar alphabeth
+ * main - Print numbersz
  *
  * Return: Always (Success)
  */
