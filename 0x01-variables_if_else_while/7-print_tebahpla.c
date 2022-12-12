@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Putchar alphabeth
+ * main - Print tehblapla
  *
  * Return: Always (Success)
  */
