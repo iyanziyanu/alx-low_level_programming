@@ -1,4 +1,4 @@
-#include "main.h" /** main.h */
+#include "main.h" /** Custom header file */
 
 /**
  * main - print "_putchar"
