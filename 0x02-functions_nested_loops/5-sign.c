@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * print_sign - This function checks for alphabets
+ *print_sign - This function checks for alphabets
  *
+ *Return: Always 0 (Success)
  * @n: this accepts argument value
  */
 int print_sign(int n)
