@@ -1,17 +1,15 @@
 #include "main.h"
 
 /**
- * Return: 1 if num is > 0
- * 0 if number is = 0
- * -1 if number is < 0
+ * print_sign - This function checks for alphabets
+ * 
+ * @n: this accepts argument value
  */
-
 int print_sign(int n)
 {
 if (n > 0) 
 {
 _putchar('+');
-
 return (1);
 }
 else if (n == 0)
@@ -23,4 +21,5 @@ else
 {
 _putchar('-'); 
 return (-1); 
+}
 }
