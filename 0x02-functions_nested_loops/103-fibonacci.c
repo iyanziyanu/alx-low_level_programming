@@ -18,7 +18,6 @@ s = s + a_2;
 a_1 = a_1 + a_2;
 a_2 = a_1 + a_2;
 }
-printf("%ld", s);
 putchar('\n');
 return (0);
 }
