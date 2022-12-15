@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 /**
  * main - Entry point
  * Description: a program that prints the first 50 characters
