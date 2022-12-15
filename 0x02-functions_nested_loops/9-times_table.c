@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
- *times_table - a function that prints the 9 times table.
+ * times_table - a function that prints the 9 times table.
  *
  * Return: Allow success
  */
-
 void times_table(void)
 {
 int i = 0, n;
@@ -36,5 +34,6 @@ _putchar(' ');
 }
 }
 _putchar('\n');
+i++;
 }
 }
